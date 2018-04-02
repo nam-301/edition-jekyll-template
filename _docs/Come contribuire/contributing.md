@@ -1,6 +1,6 @@
 ---
-title: Images
-category: Media
+title: contributing.mb
+category: Come contribuire
 order: 1
 ---
 

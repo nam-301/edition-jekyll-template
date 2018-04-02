@@ -1,6 +1,6 @@
 ---
-title: Documents
-category: Media
+title: Wiki
+category: Come contribuire
 order: 3
 ---
 

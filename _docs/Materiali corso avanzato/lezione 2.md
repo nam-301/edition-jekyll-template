@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: lezione 2
+category: Materiali corso avanzato
 order: 2
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Welcome
+title: Benvenuti
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Vi trovate su **culturabinaria**, un progetto di educazione digitale.
+**culturabinaria** è una raccolta di materiali didattici per l'educazione digitale basati sull'educazione non formale.
+Nella colonna destra potete navigare tra i contenuti e scoprire come contribuire.
 
 ChatApp is a fictional chat application for sending messages and media to others.
 Teams and friend groups would use ChatApp to stay up to date if it existed.
